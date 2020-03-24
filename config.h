@@ -95,22 +95,22 @@ char *termname = "st-256color";
 unsigned int tabspaces = 8;
 
 static const char *colorname[] = {
-	"#282828", /* hard contrast: #1d2021 / soft contrast: #32302f */
-	"#cc241d",
-	"#98971a",
-	"#d79921",
-	"#458588",
-	"#b16286",
-	"#689d6a",
+	"#282828", /* hard contrast: #282828 / soft contrast: #484848 */
+	"#f92c23",
+	"#b2b602",
+	"#faba25",
+	"#5dbabf",
+	"#e981b1",
+	"#89cf8c",
 	"#a89984",
-	"#928374",
-	"#fb4934",
-	"#b8bb26",
-	"#fabd2f",
-	"#83a598",
-	"#d3869b",
-	"#8ec07c",
-	"#ebdbb2",
+	"#e6e0d0",
+	"#f92c23",
+	"#b2b602",
+	"#faba25",
+	"#5dbabf",
+	"#e981b1",
+	"#89cf8c",
+	"#e6e0d0",
 };
 
 
